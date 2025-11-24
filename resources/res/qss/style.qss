@@ -1,0 +1,104 @@
+#widget{
+    border-image:url(:/res/pic/background-4.png);
+}
+
+#frame_down{
+    background-color: white;
+    border: none;
+    border-image:url(:/res/pic/background-4.png);
+}
+
+/*按钮*/
+#btnMenu{
+    color:#7bb7a5;
+    border: none;
+    background-color:#ffffff;
+    border-radius: 10px;
+}
+
+#btnCamera{
+    color:#7bb7a5;
+    border: none;
+    background-color:#ffffff;
+    border-radius: 10px;
+}
+
+#btnExplain{
+    color:#7bb7a5;
+    border: none;
+    background-color:#ffffff;
+    border-radius: 10px;
+}
+
+#pushButton{
+    color:#000000;
+    border: none;
+    background-color:#74fae9;
+    border-radius: 5px;
+}
+
+#pushButton_2{
+    color:#000000;
+    border: none;
+    background-color:#74fae9;
+    border-radius: 5px;
+}
+
+#btnN{
+    color:#000000;
+    border: none;
+    background-color:#74fae9;
+    border-radius: 5px;
+}
+
+#btnN[selected="true"] {
+    color:#000000;
+    border: none;
+    background-color:#7bb7a5;
+    border-radius: 5px;
+}
+
+#btnP{
+    color:#000000;
+    border: none;
+    background-color:#74fae9;
+    border-radius: 5px;
+}
+
+#btnP[selected="true"] {
+    color:#000000;
+    border: none;
+    background-color:#7bb7a5;
+    border-radius: 5px;
+}
+
+#btnK{
+    color:#000000;
+    border: none;
+    background-color:#74fae9;
+    border-radius: 5px;
+}
+
+#btnK[selected="true"] {
+    color:#000000;
+    border: none;
+    background-color:#7bb7a5;
+    border-radius: 5px;
+}
+
+#btnStart{
+    border-image:url(:/res/pic/start_up.png);
+}
+
+#btnStart:pressed{
+    border-image:url(:/res/pic/start_down.png);
+}
+
+#btnPause{
+    border-image:url(:/res/pic/pause_up.png);
+}
+
+#btnPause:pressed{
+    border-image:url(:/res/pic/pause_down.png);
+}
+
